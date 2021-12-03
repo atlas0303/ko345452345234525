@@ -1,0 +1,7 @@
+{
+  "mongoURL" : "mongodb+srv://Paralox:e6pablo41ks1966@cluster0.sql3a.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "clientID" : "915193349437272064",
+  "token" : "OTE1MTkzMzQ5NDM3MjcyMDY0.YaYCOQ.9SSoi2i3zSRo5w8ZgtYuGBvOhVk",
+  "secret" : "Q71XSZz_Ez8ZStzA74UuRQGYlEIWc_-0",
+  "callbackURL" : "https://tan-ossified-wombat.glitch.me/callback"
+}
